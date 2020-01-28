@@ -4,3 +4,4 @@ usando git.
 
 integrantes
 James Cantos.
+Jefferson Mina
